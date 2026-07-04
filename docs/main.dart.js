@@ -64617,7 +64617,7 @@ A.Pc.prototype={
 $0(){this.a.nm("https://wa.me/6285795342939?text=Halo,%20saya%20melihat%20portofolio%20Anda%20dan%20tertarik%20untuk%20berdiskusi.")},
 $S:0}
 A.Dy.prototype={
-O(a){return new A.tU(B.AB,"Portofolio Flutter Developer",A.ac4(null,A.ae8(B.T,null,B.aj,B.EA),!0),!1,null)}}
+O(a){return new A.tU(B.AB,"Rhyuki Rizki Portfolio",A.ac4(null,A.ae8(B.T,null,B.aj,B.EA),!0),!1,null)}}
 A.C8.prototype={
 O(a){var s,r,q,p,o=null,n=t.w,m=A.bC(a,o,n).w.a.a<600,l=A.aau(m?o:A.c([A.a1b(A.eV("Beranda",A.dj(o,o,B.aj,o,o,o,o,o,o,o,o,o,o,o,B.al,o,o,!0,o,o,o,o,o,o,o,o),o),new A.Sk()),A.a1b(B.wi,new A.Sl(a)),B.vU,A.BD(!1,B.fo,o,o,o,o,o,o,new A.Sm(a),o,A.nN(o,o,B.aj,o,o,o,o,o,o,B.h,o,o,o,o,o,o,o,o,o,o)),B.j5],t.E),B.h,0,B.x,B.wh),k=m?A.aeA(A.afw(A.c([A.aeB(B.wg,new A.cI(B.aj,o,o,o,o,o,B.az)),A.TF(B.l5,new A.Sn(a),B.No),A.TF(B.l6,new A.So(a),B.wi),B.kE,new A.dw(B.hn,A.BD(!1,B.fo,o,o,o,o,o,o,new A.Sp(a),o,A.nN(o,o,B.aj,o,o,o,o,o,o,B.h,o,o,B.kM,o,o,o,o,o,o,o)),o)],t.E),B.aD)):o
 n=A.bC(a,o,n).w
